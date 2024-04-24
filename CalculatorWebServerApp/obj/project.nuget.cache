@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xS943cedN1nlQhTE7Ugy5GUcspmvqxWBiSNPPe9oa7N/R+k28s9ttqYr21gN5YzJrLtKJp54sQYLcoljTxjz0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Herib\\RiderProjects\\Testing Project\\CalculatorWebServerApp\\CalculatorWebServerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Herib\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
