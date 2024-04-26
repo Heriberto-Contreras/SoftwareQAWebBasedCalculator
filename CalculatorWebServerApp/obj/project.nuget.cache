@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xS943cedN1nlQhTE7Ugy5GUcspmvqxWBiSNPPe9oa7N/R+k28s9ttqYr21gN5YzJrLtKJp54sQYLcoljTxjz0Q==",
+  "dgSpecHash": "Hq3hekm2yRjZp7olU5KsmjFOB3A2DpM4JLi0U0Bf3dTvx/td2+AErT5ny1xvHViy+fLDjILkjIox7E7UNdeEkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Herib\\RiderProjects\\Testing Project\\CalculatorWebServerApp\\CalculatorWebServerApp.csproj",
+  "projectFilePath": "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorWebServerApp\\CalculatorWebServerApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Herib\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
   ],

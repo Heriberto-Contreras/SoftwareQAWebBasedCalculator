@@ -226,6 +226,16 @@
             "copyToOutput": false
           }
         }
+      },
+      "CalculatorEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CalculatorEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculatorEngine.dll": {}
+        }
       }
     }
   },
@@ -329,10 +339,16 @@
         "contentFiles/any/any/wwwroot/js/bootstrap.min.js",
         "contentFiles/any/any/wwwroot/js/bootstrap.min.js.map"
       ]
+    },
+    "CalculatorEngine/1.0.0": {
+      "type": "project",
+      "path": "../CalculatorEngine/CalculatorEngine.csproj",
+      "msbuildProject": "../CalculatorEngine/CalculatorEngine.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "CalculatorEngine >= 1.0.0",
       "bootstrap >= 5.3.3"
     ]
   },
@@ -342,11 +358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Herib\\RiderProjects\\Testing Project\\CalculatorWebServerApp\\CalculatorWebServerApp.csproj",
+      "projectUniqueName": "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorWebServerApp\\CalculatorWebServerApp.csproj",
       "projectName": "CalculatorWebServerApp",
-      "projectPath": "C:\\Users\\Herib\\RiderProjects\\Testing Project\\CalculatorWebServerApp\\CalculatorWebServerApp.csproj",
+      "projectPath": "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorWebServerApp\\CalculatorWebServerApp.csproj",
       "packagesPath": "C:\\Users\\Herib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Herib\\RiderProjects\\Testing Project\\CalculatorWebServerApp\\obj\\",
+      "outputPath": "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorWebServerApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Herib\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -360,7 +376,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorEngine\\CalculatorEngine.csproj": {
+              "projectPath": "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorEngine\\CalculatorEngine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -397,7 +417,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Herib\\.dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Herib\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

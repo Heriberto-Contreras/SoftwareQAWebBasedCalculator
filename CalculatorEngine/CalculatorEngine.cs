@@ -7,34 +7,34 @@ public class CalculatorEngine
     {
        
     }
-    public double addition(double x, double y)
+    public double Addition(double x, double y)
     {
-        // preq-ENGINE-3
+        //preq-ENGINE-3
         return x + y;
     }
 
-    public double subtraction(double x, double y)
+    public double Subtraction(double x, double y)
     {
-        // preq-ENGINE-4
+        //preq-ENGINE-4
         return x - y;
     }
 
-    public double multiplication(double x, double y)
+    public double Multiplication(double x, double y)
     {
-        // preq-ENGINE-5
+        //preq-ENGINE-5
         return x * y;
     }
 
-    public double division(double x, double y)
+    public double Division(double x, double y)
     {
-        // preq-ENGINE-6
+        //preq-ENGINE-7
         return x / y;
     }
 
-    public double equals(double x, double y)
+    public double Equals(double x, double y)
     {
-        // preq-ENGINE-7
-        var precision = 8;
+        //preq-ENGINE-8
+        var precision = 9;
         var tolerance = Math.Pow(10, -precision); // 10000000
         var absoluteValueOfDiff = Math.Abs(x - y); 
         var isWithinTolerance = absoluteValueOfDiff <= tolerance;
@@ -47,21 +47,25 @@ public class CalculatorEngine
 
     public double RaiseToPower(double x, double y)
     {
+        //preq-ENGINE-9
         return Math.Pow(x, y);
     }
 
     public double LogOfNumber(double x, double y)
     {
+        //preq-ENGINE-10
         return Math.Log(x, y);
     }
 
     public double RootOfNumber(double x, double y)
     {
+        //preq-ENGINE-11
         return Math.Pow(x, 1.0 / y);
     }
 
     public double FactorialOfNumber(double x)
     {
+        //preq-ENGINE-12
         double result = 1;
         for(int i = 0; i < Math.Abs(x); i++)
         {
@@ -75,36 +79,27 @@ public class CalculatorEngine
         return result;
     }
 
-    public double sin(double x)
+    public double Sin(double x)
     {
-        double number = x * (Math.PI / 180);
-        Console.WriteLine(number);
-    
-        double result = Math.Sin(number);
-    
-        // Check if the result is within a tolerance of zero
-        if (Math.Abs(result) < 1e-10) // You can adjust the tolerance level as needed
-        {
-            return 0.0; // Return exactly zero if the result is close enough to zero
-        }
-        else
-        {
-            return result; // Otherwise, return the actual result
-        }
+        //preq-ENGINE-13
+        return Math.Sin(x * (Math.PI / 180));
     }
  
-    public double cos(double x)
+    public double Cos(double x)
     {
+        //preq-ENGINE-14
         return Math.Cos(x * (Math.PI / 180));
     }
 
-    public double tan(double x)
+    public double Tan(double x)
     {
+        //preq-ENGINE-15
         return Math.Tan(x * (Math.PI / 180));
     }
 
-    public double redciprocal(double x)
+    public double Reciprocal(double x)
     {
+        //preq-ENGINE-16
         return 1 / x;
     }
 }

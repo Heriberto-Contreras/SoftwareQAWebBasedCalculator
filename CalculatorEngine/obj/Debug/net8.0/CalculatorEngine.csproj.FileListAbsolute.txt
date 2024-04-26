@@ -12,3 +12,18 @@ C:\Users\Herib\RiderProjects\Testing Project\CalculatorEngine\obj\Debug\net8.0\r
 C:\Users\Herib\RiderProjects\Testing Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.pdb
 C:\Users\Herib\RiderProjects\Testing Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.genruntimeconfig.cache
 C:\Users\Herib\RiderProjects\Testing Project\CalculatorEngine\obj\Debug\net8.0\ref\CalculatorEngine.dll
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\bin\Debug\net8.0\CalculatorEngine.exe
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\bin\Debug\net8.0\CalculatorEngine.deps.json
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\bin\Debug\net8.0\CalculatorEngine.runtimeconfig.json
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\bin\Debug\net8.0\CalculatorEngine.dll
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\bin\Debug\net8.0\CalculatorEngine.pdb
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.AssemblyInfoInputs.cache
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.AssemblyInfo.cs
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.sourcelink.json
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.dll
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\refint\CalculatorEngine.dll
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.pdb
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.genruntimeconfig.cache
+C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngine\obj\Debug\net8.0\ref\CalculatorEngine.dll

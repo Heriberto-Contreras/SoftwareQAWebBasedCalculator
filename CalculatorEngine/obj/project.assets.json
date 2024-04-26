@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Herib\\RiderProjects\\Testing Project\\CalculatorEngine\\CalculatorEngine.csproj",
+      "projectUniqueName": "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorEngine\\CalculatorEngine.csproj",
       "projectName": "CalculatorEngine",
-      "projectPath": "C:\\Users\\Herib\\RiderProjects\\Testing Project\\CalculatorEngine\\CalculatorEngine.csproj",
+      "projectPath": "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorEngine\\CalculatorEngine.csproj",
       "packagesPath": "C:\\Users\\Herib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Herib\\RiderProjects\\Testing Project\\CalculatorEngine\\obj\\",
+      "outputPath": "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorEngine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Herib\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Herib\\.dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Herib\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

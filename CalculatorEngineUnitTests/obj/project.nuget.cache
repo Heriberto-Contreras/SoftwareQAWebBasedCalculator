@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ML3qFjJxRlaDz98WUvUpSqA1t2s9fdcJ5/lxkP0viCG/3obis30Jb+cX4GETpwj+gxWOhP5raY6vPFUeNK3VTw==",
+  "dgSpecHash": "qiPUQcEqldTX1vek0e7g7e6aRs8wzSdZxtpPTPoBwvh1Lp/GO7fin8oDUzT/mUR4BUhTGL9xycc4a4x9UHyvCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Herib\\RiderProjects\\Testing Project\\CalculatorEngineUnitTests\\CalculatorEngineUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Herib\\RiderProjects\\Spring_Project\\CalculatorEngineUnitTests\\CalculatorEngineUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Herib\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Herib\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

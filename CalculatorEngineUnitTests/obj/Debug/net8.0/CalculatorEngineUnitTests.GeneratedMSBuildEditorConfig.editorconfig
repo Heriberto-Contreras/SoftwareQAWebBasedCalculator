@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CalculatorEngineUnitTests
-build_property.ProjectDir = C:\Users\Herib\RiderProjects\Testing Project\CalculatorEngineUnitTests\
+build_property.ProjectDir = C:\Users\Herib\RiderProjects\Spring_Project\CalculatorEngineUnitTests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

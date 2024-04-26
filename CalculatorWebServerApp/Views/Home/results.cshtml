@@ -3,7 +3,7 @@
 <link href="path/to/bootstrap.min.css" rel="stylesheet">
 <style>
     [class*="col"] {
-        padding: 0.9rem;
+        padding: 1rem;
         background-color: #ffffff;
         border: 2px solid #fff;
         color: #000000;
@@ -11,7 +11,6 @@
     .btn-primary {
         background-color: #EBEBEB;
         color: #000000;
-        margin-bottom: 1px;
     }    
     .feedback-col {
         background-color: #FFECD7;
@@ -21,19 +20,17 @@
         background-color: #EBEBEB;
         color: #000000;
         padding: 1rem;
-        border: 2px solid #fff;
-        margin-bottom: 1px;
+        border: 2px solid #fff
     }   
     .main_container {
         max-width: 700px;
-    }
-
+    }    
 </style>
 
 <form method="post">
             
     <div class="container-sm border main_container">
-        <div class="container">
+        <div class="container border">
             <div class="row">
                 <div class="col"><h1>Calculator</h1></div>
                 <div class="col">
@@ -43,7 +40,7 @@
             </div>
             <div class="row">
                 <div class="feedback-col">
-                    <h2 align="center">Enter value(s) below and select an operation</h2>
+                    <h2 align="center">@Model.LabelResult<br>@Model.Result</h2>
                 </div>
             </div>
             <div class="row">
@@ -67,7 +64,7 @@
                 <div class="operation-col col">A Only</div>
             </div>        
         </div>
-        <div class="container">
+        <div class="container border">
             <div class="row">
                 <div class="col">
                     <button class="btn btn-primary btn-md w-100" asp-controller="Home" asp-action="Addition">A + B</button>
@@ -121,6 +118,7 @@
                     <button class="btn btn-primary btn-md w-100" asp-controller="Home" asp-action="LogOfNumber">A log B</button>
                 </div>
                 <div class="col">
+                    
                 </div>
             </div>  
             <div class="row">
