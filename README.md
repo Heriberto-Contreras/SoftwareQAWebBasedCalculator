@@ -37,7 +37,8 @@ To execute the application:
 1. Open the terminal and navigate to the `CalculatorWebServerApp` folder in the solution folder/directory.
 2. Once in the folder use the command `dotnet` run to start the web server.
 3. The terminal output should look like this.
-4. Copy the url shown in the terminal and paste it into a browser.
+![README-Assets/Screenshot 2024-04-26 213558.png](README-Assets/Screenshot 2024-04-26 213558.png)
+5. Copy the url shown in the terminal and paste it into a browser.
 
 ## Executing Unit Tests
 1. Navigate to the `CalculatorEngineUnitTests` folder/directory
