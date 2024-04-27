@@ -5,7 +5,7 @@ This Repository contains source code for a ASP.NET MVC web-based calculator proj
 - [Environment](#environment)
 - [Executing the Web Application](#executing-the-web-application)
 - [Executing Unit Tests](#executing-unit-tests)
-- [Reviewing Unit Test Converage](#reviewing-unit-tests-coverage)
+- [Reviewing Unit Test Coverage](#reviewing-unit-tests-coverage)
 - [Executing End-To-End Tests](#executing-end-to-end-tests)
 - [Final Video Presentation](#final-video-presentation)
 
@@ -37,7 +37,9 @@ To execute the application:
 1. Open the terminal and navigate to the `CalculatorWebServerApp` folder in the solution folder/directory.
 2. Once in the folder use the command `dotnet` run to start the web server.
 3. The terminal output should look like this.
-![README-Assets/Screenshot 2024-04-26 213558.png](README-Assets/Screenshot-2024-04-26-213558.png)
+
+![README-Assets/Image_One.png](README-Assets/Image_One.png)
+
 5. Copy the url shown in the terminal and paste it into a browser.
 
 ## Executing Unit Tests
@@ -46,7 +48,9 @@ To execute the application:
 3. Inside the `net8.0` folder/directory run the command `dotnet test CalculatorEngineUnitTests.dll`
 4. The terminal should output the results of all 23 unit tests
 
-## Reviewing Unit Test Coverage
+![README-Assets/Image_Two.png](README-Assets/Image_Two.png)
+
+## Reviewing Unit Tests Coverage
 The Calculator logic located in the CalculatorEngine.cs file has full path and statement coverage.
 
 ## Executing End-To-End Tests
@@ -56,5 +60,7 @@ Make sure that the web server is up and running.
 3. Similar to executing the Unit tests, navigate through the `\bin\Debug\net8.0\`
 4. Inside the `net8.0` folder/directory run the command `dotnet test CalculatorEndToEndTest.dll`
 5. The terminal should output the results of the playwright scripts.
+
+![README-Assets/Image_Three.png](README-Assets/Image_Three.png)
 
 ## Final Video Presentation
