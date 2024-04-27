@@ -19,6 +19,8 @@ There are four projects all contained within one solution. The projects are list
 - CalculatorWebAppServer: This project hosts the ASP.NET MVC application using cshtml, css, and C#.
 - CalculatorEndToEndTests: Playwright scripts are placed here.
 
+![README-Assets/WebAppArchitecture.png](README-Assets/WebAppArchitecture.png)
+
 ## Environment
 This application can be ran on Windows 10+, Mac OS, and Linux Environments. This application has only been tested for Windows 11 but the environment can be set up for the operating systems listed above. I will be giving intallation examples for windows users.
 
@@ -52,6 +54,8 @@ To execute the application:
 
 ## Reviewing Unit Tests Coverage
 The Calculator logic located in the CalculatorEngine.cs file has full path and statement coverage.
+
+![README-Assets/TestCoverage.png](README-Assets/TestCoverage.png)
 
 ## Executing End-To-End Tests
 Make sure that the web server is up and running.
