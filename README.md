@@ -5,7 +5,7 @@ This Repository contains source code for a ASP.NET MVC web-based calculator proj
 - [Environment](#environment)
 - [Executing the Web Application](#executing-the-web-application)
 - [Executing Unit Tests](#executing-unit-tests)
-- [Reviewing Unit Test Converage](#reviewing-unit-tests-converage)
+- [Reviewing Unit Test Converage](#reviewing-unit-tests-coverage)
 - [Executing End-To-End Tests](#executing-end-to-end-tests)
 - [Final Video Presentation](#final-video-presentation)
 
