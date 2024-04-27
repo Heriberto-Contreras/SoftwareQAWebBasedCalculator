@@ -69,4 +69,4 @@ Make sure that the web server is up and running.
 
 ## Final Video Presentation
 
-![Video_Presentation](https://vimeo.com/939803075?share=copy)
+https://vimeo.com/manage/videos/939803075
