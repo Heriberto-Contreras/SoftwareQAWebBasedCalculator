@@ -234,6 +234,19 @@ public class Tests
     }
     
     [Test]
+    public void Factorial_FactorialOfNegativeNumber_ReturnsCorrectNegativeNumber()
+    {
+        //preq-UNIT-TEST-15
+        //Arrange
+        double ExpectedResult = -120;
+        double x = -5;
+        //Act
+        double result = _calculatorEngine.FactorialOfNumber(x);
+        //Assert
+        Assert.AreEqual(ExpectedResult, result);
+    }
+    
+    [Test]
     public void Sin_SinOf360Degrees_ReturnsCorrectNumber()
     {
         //preq-UNIT-TEST-16
